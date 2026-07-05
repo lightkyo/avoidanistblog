@@ -40,4 +40,11 @@ document.addEventListener("click", function (e: MouseEvent) {
         target.setAttribute("data-timeout-id", newTimeoutId.toString());
     }
 });
+
+let linkCards = Array.from(document.querySelectorAll(".rlc-container")) as HTMLElement[];
+for (let linkCard of linkCards) {
+    linkCard.classList.add("no-styling"); // Tailwind CSS(prose)を適用させないようにする
+    linkCard.style.textDecoration = "none"; // 文字列の下線部を非表示にする
+    linkCard.setAttribute('target','_blank'); //新しいタブで開く
+}
 </script>

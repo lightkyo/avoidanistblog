@@ -60,7 +60,7 @@ Yahooショッピングには，Google Playギフトコード認定店という�
 なので普段Yahooショッピングを使わない人にはあんまりおすすめできないかもです．ごめんね．  
 ちなみにポイントの有効期限は，ヤフーショッピング商品券購入すればちょっと伸ばせます．
 
-<!-- https://shopping.geocities.jp/googleplay/ -->
+https://shopping.geocities.jp/googleplay/
 
 ### 他のショップでGoogle Playカードを買う場合
 #### 楽天
@@ -68,7 +68,7 @@ Yahooショッピングには，Google Playギフトコード認定店という�
 
 自分は楽天詳しくないのですが，楽天経済圏の人はこっちで買った方が絶対良いです．
 
-<!-- https://event.rakuten.co.jp/computer/gpgiftcard/ -->
+https://event.rakuten.co.jp/computer/gpgiftcard/
 
 #### Amazon
 AmazonでもGoogle Playカードが買えます．
@@ -81,7 +81,7 @@ Prime Dayあたりでやってることが多いので，Prime DayでGoogle Play
 
 エントリーが必須なものが多いのでお忘れなく．
 
-<!-- https://www.amazon.co.jp/Google-Google_Google_10000-eGift-Card/dp/B0FP2VDYQT/ref=sr_1_1?dib=eyJ2IjoiMSJ9.j47epbiIRChal_oHYASbCG39GVRFHikZGLpdt3Hy625rE8auGbaHLfqiuwvPiM1x62M0iCYJnzoZ7rO2YzXhNG4ziG3Y-SNVQLN1nhX9sRIdZPMys4zMbhASeMhR959fvz7S36iW70uG8p7sxmhjeZeQNwgNvDeTcSc6ZyHq8DUCHoKZo59bQHnszNARrvxj3d5RzjKM2kDuS1MWvAx9GmTIybeasJOeJ97VMWaIGby14S1LgMd1OSQ6N9JLV1olAi4eBdar52pJDHntWyJVSg.yQ70XzXDOJ4DDHtNlIzTBbb2BFNB6AVow5o_9CJdchY&dib_tag=se&keywords=%E3%82%B0%E3%83%BC%E3%82%B0%E3%83%AB%E3%83%97%E3%83%AC%E3%82%A4%E3%82%AB%E3%83%BC%E3%83%89&qid=1783229364&sr=8-1 -->
+https://www.amazon.co.jp/Google-Google_Google_10000-eGift-Card/dp/B0FP2VDYQT/ref=sr_1_1?dib=eyJ2IjoiMSJ9.j47epbiIRChal_oHYASbCG39GVRFHikZGLpdt3Hy625rE8auGbaHLfqiuwvPiM1x62M0iCYJnzoZ7rO2YzXhNG4ziG3Y-SNVQLN1nhX9sRIdZPMys4zMbhASeMhR959fvz7S36iW70uG8p7sxmhjeZeQNwgNvDeTcSc6ZyHq8DUCHoKZo59bQHnszNARrvxj3d5RzjKM2kDuS1MWvAx9GmTIybeasJOeJ97VMWaIGby14S1LgMd1OSQ6N9JLV1olAi4eBdar52pJDHntWyJVSg.yQ70XzXDOJ4DDHtNlIzTBbb2BFNB6AVow5o_9CJdchY&dib_tag=se&keywords=%E3%82%B0%E3%83%BC%E3%82%B0%E3%83%AB%E3%83%97%E3%83%AC%E3%82%A4%E3%82%AB%E3%83%BC%E3%83%89&qid=1783229364&sr=8-1
 
 ## オマケ：ポイントサイトを経由する
 ここから更にYahooショッピングでの購入にポイントサイトを経由する方法があります．
