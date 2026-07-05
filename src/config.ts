@@ -54,7 +54,7 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/avatar.webp", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "Lorem Ipsum",
+	name: "Naro",
 	bio: "人生から逃げ続ける社会人",
 	links: [
 		{
