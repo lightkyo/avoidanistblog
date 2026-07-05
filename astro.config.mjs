@@ -26,9 +26,10 @@ import { pluginCustomCopyButton } from "./src/plugins/expressive-code/custom-cop
 
 // https://astro.build/config
 export default defineConfig({
-	site: "https://lightkyo.github.io/avoidanistblog",
+	site: "https://lightkyo.github.io",
 	// site: "https://www.avoidanist.com",
-	base: "/",
+	// base: "/",
+	base: "/avoidanistblog",
 	trailingSlash: "always",
 	integrations: [
 		tailwind({
