@@ -1,9 +1,13 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+ただの備忘録
 
+ガジェットとか，ゲームとか，ソフトウェアとかについて好きなことを書いていく
+
+### ブログ内で使用している画像とか
+[Unsplash](https://unsplash.com/)
+
+## サイトのテーマ
+このサイトではFuwariというテーマを拝借しています
+
+この場を借りて感謝申し上げます
 ::github{repo="saicaca/fuwari"}
-
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
