@@ -24,7 +24,7 @@ jobs:
         uses: withastro/action@v6
         with:
           # path: . # リポジトリ内のAstroプロジェクトのルート位置です。（オプション）
-          node-version: 23 # サイトのビルドに使用するNodeのバージョンです。デフォルトは24です。（オプション）
+          node-version: 22 # サイトのビルドに使用するNodeのバージョンです。デフォルトは24です。（オプション）
           # package-manager: pnpm@latest # 依存関係のインストールとサイトのビルドに使用するNodeパッケージマネージャーです。ロックファイルに基づいて自動検出されます。（オプション）
           # build-cmd: pnpm run build # サイトをビルドするためのコマンドです。デフォルトでパッケージのbuildスクリプトを実行します。（オプション）
         # env:
