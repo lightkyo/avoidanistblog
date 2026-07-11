@@ -1,10 +1,10 @@
 ---
 title: YouTube Premiumにちょっとでも安く入る方法を紹介する
 published: 2026-07-05
-description: ''
+description: 'Youtubeさいきょー'
 image: './YouTube_Premium.webp'
 tags: [YouTube, サブスク]
-category: 'Subscribe'
+category: 'サブスク'
 draft: false 
 lang: ''
 ---
