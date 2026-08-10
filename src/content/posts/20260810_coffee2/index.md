@@ -3,7 +3,7 @@ title: 激安インスタントコーヒー探訪記【ユニバースターコ�
 published: 2026-08-10
 description: '業務用スーパーは神'
 image: './universtarcoffee.webp'
-tags: [coffee]
+tags: [コーヒー, 業務用スーパー]
 category: '食品・飲料'
 draft: false 
 lang: 'ja'

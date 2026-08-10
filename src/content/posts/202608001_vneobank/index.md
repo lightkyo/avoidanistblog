@@ -4,7 +4,7 @@ published: 2026-08-01
 description: '6月に作ったばっかりなのに'
 image: 'vneobank_samune.webp'
 tags: [銀行, デビットカード，Vネオバンク]
-category: 'Money'
+category: 'お金'
 draft: false 
 lang: 'ja'
 ---

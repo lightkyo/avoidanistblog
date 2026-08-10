@@ -3,8 +3,8 @@ title: steamデスクトップにsteam DBを導入する方法
 published: 2026-07-23
 description: 'steamデスクトップでも最安値を確認したい'
 image: 'samune.webp'
-tags: [steam]
-category: 'Game'
+tags: [steam, steamDB]
+category: 'ゲーム'
 draft: false
 lang: 'ja'
 ---

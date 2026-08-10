@@ -3,8 +3,8 @@ title: 【モニター】白いモニター探し中
 published: 2026-07-29
 description: '白デスクって良いよね，埃目立たないし'
 image: 'white_monitor.webp'
-tags: [monitor]
-category: 'Desk'
+tags: [モニター]
+category: 'デスク環境'
 draft: false 
 lang: 'ja'
 ---
