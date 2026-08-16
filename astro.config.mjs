@@ -1,3 +1,4 @@
+import partytown from "@astrojs/partytown";
 import sitemap from "@astrojs/sitemap";
 import svelte from "@astrojs/svelte";
 import tailwind from "@astrojs/tailwind";
@@ -106,6 +107,11 @@ export default defineConfig({
 		}),
 		svelte(),
 		sitemap(),
+		partytown({
+			config: {
+				forward: ["dataLayer.push"],
+			},
+		}),
 	],
 	markdown: {
 		remarkPlugins: [
