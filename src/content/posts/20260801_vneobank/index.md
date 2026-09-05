@@ -3,7 +3,7 @@ title: V NEOBANKデビット改悪で泣いた
 published: 2026-08-01
 description: '6月に作ったばっかりなのに'
 image: 'vneobank_samune.webp'
-tags: [銀行, デビットカード，Vネオバンク]
+tags: [銀行, デビットカード, Vネオバンク]
 category: 'お金'
 draft: false 
 lang: 'ja'
