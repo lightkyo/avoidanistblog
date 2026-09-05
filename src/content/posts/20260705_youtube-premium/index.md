@@ -9,6 +9,10 @@ draft: false
 lang: ''
 ---
 
+:::caution
+Yahooショッピングの改悪により，Google Playカードの還元率が1%に低下したので，以下の方法は使用できなくなりました
+:::
+
 YouTube Premium使ってますか？
 
 Youtubeから広告を無くしつつ，音楽サブスクとしても使える神サービスですよね．  
