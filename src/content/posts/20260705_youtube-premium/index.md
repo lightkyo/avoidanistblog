@@ -6,7 +6,7 @@ image: './YouTube_Premium.webp'
 tags: [YouTube, サブスク]
 category: 'サブスク'
 draft: false 
-lang: ''
+lang: 'ja'
 ---
 
 :::caution
