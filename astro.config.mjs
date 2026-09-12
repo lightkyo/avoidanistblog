@@ -35,6 +35,7 @@ export default defineConfig({
 	// base: "/avoidanistblog",
 	trailingSlash: "always",
 	integrations: [
+		sitemap(),
 		tailwind({
 			nesting: true,
 		}),
@@ -106,7 +107,6 @@ export default defineConfig({
 			},
 		}),
 		svelte(),
-		sitemap(),
 		partytown({
 			config: {
 				forward: ["dataLayer.push"],
